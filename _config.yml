@@ -1,15 +1,15 @@
 # Site settings
-name: Less Or More
-email: luoyan35714@126.com
-author: Freud Kang
-url: http://www.hifreud.com
-resume_site: http://www.hifreud.com/Resume.io/
-github: https://github.com/luoyan35714/
-baseurl: "/LessOrMore"
+name: 清风向晚的博客
+email: 1107322916@qq.com
+author: XSJ
+url: http://www.findfriend.xyz
+resume_site: https://AndyofJuly.github.io
+github: https://AndyofJuly.github.io
+baseurl: ''
 description: Actually, less is more!
-meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
-motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+meta_description: 谢少杰
+motto: All I want is a simple life
+banner: 只有珍惜往事的人才真正地生活
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
@@ -17,7 +17,7 @@ paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
-github_username: luoyan35714
+github_username: AndyofJuly
 
 # Build settings
 markdown: kramdown
